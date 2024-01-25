@@ -8,11 +8,11 @@ The purpose of this analysis is to evaluate the performance of our machine learn
 
 - **Accuracy Score:** 0.99
 - **Precision Score:**
-  - "Healthy Loan": 1.00
-  - "High Risk Loan": 0.85
+  - Healthy Loan: 1.00
+  - High Risk Loan: 0.85
 - **Recall Score:**
-  - "Healthy Loan": 0.99
-  - "High Risk Loan": 0.91
+  - Healthy Loan: 0.99
+  - High Risk Loan: 0.91
 
 ## Summary:
 
